@@ -1,0 +1,7 @@
+name: auc_bias 
+dependencies:
+- python=3.9.7
+- pip
+- jupyter
+- pip:
+    - -r requirements.txt
